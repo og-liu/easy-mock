@@ -43,7 +43,7 @@
     }
   },
   "fe": {
-    "copyright": "",
+    "copyright": "鄂ICP备19025890号-2",
     "storageNamespace": "easy-mock_",
     "timeout": 25000,
     "publicPath": "/dist/"

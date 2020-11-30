@@ -40,7 +40,8 @@
         <router-link to="/docs" class="link">Document</router-link>
         <a href="https://github.com/easy-mock/easy-mock-cli" target="_blank" class="link">CLI</a>
         <a href="https://github.com/easy-mock/easy-mock" target="_blank" class="link">GitHub</a>
-        <p v-if="copyright">{{copyright}}</p>
+        <br>
+        <a href="https://beian.miit.gov.cn" target="_blank" class="link">{{copyright}}</a>
       </div>
       <transition name="fade">
         <div class="fullscreen-by" v-if="wallpaperCopyright">
