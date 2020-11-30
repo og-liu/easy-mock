@@ -1,14 +1,14 @@
 {
   "port": 7300,
-  "host": "0.0.0.0",
+  "host": "http://8.129.238.192/",
   "pageSize": 30,
   "proxy": false,
-  "db": "mongodb://0.0.0.0/easy-mock",
+  "db": "mongodb://http://8.129.238.192/easy-mock",
   "unsplashClientId": "",
   "redis": {
     "keyPrefix": "[Easy Mock]",
     "port": 6379,
-    "host": "0.0.0.0",
+    "host": "http://8.129.238.192/",
     "password": "",
     "db": 0
   },
