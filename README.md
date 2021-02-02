@@ -61,7 +61,7 @@ $ cd easy-mock && npm install
 
 > 不同环境会加载不同的配置文件，在此之前你应该对 [node-config](https://github.com/lorenwest/node-config) 有所了解。
 
-```json
+```js
 {
   "port": 7300,
   "host": "0.0.0.0",
