@@ -55,12 +55,12 @@
             </template>
             <li
               class="ivu-menu-item"
-              @click="open('https://github.com/easy-mock/easy-mock')">
+              @click="open('https://github.com/og-liu/easy-mock')">
               <Icon type="link"></Icon> GitHub
             </li>
             <li
               class="ivu-menu-item"
-              @click="open('https://github.com/easy-mock/easy-mock-cli')">
+              @click="open('https://github.com/og-liu/easy-mock-cli')">
               <Icon type="link"></Icon> {{$t('c.layout.menu[4][1]')}}
             </li>
             <li
