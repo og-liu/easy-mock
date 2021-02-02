@@ -217,7 +217,7 @@ Easy Mock 是一个可视化，并且能快速生成 **模拟数据** 的持久�
 
 ### API 自动生成
 
-如果你想进一步提高自己的效率，现在可以通过 [Easy Mock CLI](https://github.com/easy-mock/easy-mock-cli) 自动创建诸如 `api.js` 这样的文件了。
+如果你想进一步提高自己的效率，现在可以通过 [Easy Mock CLI](https://github.com/og-liu/easy-mock-cli) 自动创建诸如 `api.js` 这样的文件了。
 
 ### 响应式数据
 > 虽然无法做到数据联动，但是借助于 **响应式数据**，也能玩出许多新花样。
@@ -398,7 +398,7 @@ Easy Mock 是一个可视化，并且能快速生成 **模拟数据** 的持久�
 
 ### 如何本地部署
 
-本地部署的相关介绍，请移步 [GitHub](https://github.com/easy-mock/easy-mock)。
+本地部署的相关介绍，请移步 [GitHub](https://github.com/og-liu/easy-mock)。
 
 ### 数据如何联动
 
@@ -434,10 +434,3 @@ Easy Mock 并没有强制要求使用 Swagger，所以即使没有 Swagger 我�
 - 复制刚刚创建的接口的 URL
 - 创建一个新的项目，`Swagger Docs API` 文本框填写刚刚复制的 URL
 - 填写完其它内容点击创建即可
-
-## 其它
-### 反馈
-
-扫描以下二维码，有任何问题可以在群内反馈。
-
-![Easy Mock 反馈群](./images/qq-qun.jpg) {.qq-qun}

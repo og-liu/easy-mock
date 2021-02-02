@@ -38,8 +38,8 @@
       </transition>
       <div class="links">
         <router-link to="/docs" class="link">Document</router-link>
-        <a href="https://github.com/easy-mock/easy-mock-cli" target="_blank" class="link">CLI</a>
-        <a href="https://github.com/easy-mock/easy-mock" target="_blank" class="link">GitHub</a>
+        <a href="https://github.com/og-liu/easy-mock-cli" target="_blank" class="link">CLI</a>
+        <a href="https://github.com/og-liu/easy-mock" target="_blank" class="link">GitHub</a>
         <br>
         <a href="https://beian.miit.gov.cn" target="_blank" class="link">{{copyright}}</a>
       </div>
